@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://github.com/Abinash4567/Abinash4567/assets/98229006/b87b6d96-5394-499e-a7a1-e767e9eb4561" alt="banner">
 
-<!--
-**Abinash4567/Abinash4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Full Stack Web developer</h3>
 
-Here are some ideas to get you started:
+# 💫 About Me:
+🔭 I’m currently working on Typeswift<br>🌱 I’m currently learning Socket<br>📫 How to reach me abinashyadav9845@gmail.com<br>💬 Ping me about **Typescript, Nextjs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🚀 Some Tools I Use</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,express,git,github,graphql,html,js,java,md,mongodb,nextjs,npm,postgres,postman,prisma,react,redux,regex,supabase,tailwind,ts,ubuntu)](https://skillicons.dev)
+
+## 📊 My Github Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abinash4567&show_icons=true&locale=en&layout=compact" alt="Abinash4567" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abinash4567&show_icons=true&locale=en" alt="Abinash4567" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinash4567&" alt="Abinash4567" />
+
+## Whole day productivity
+<img src="https://github.com/Abinash4567/Abinash4567/assets/98229006/72c43d5b-da71-4284-8684-695495adcd2b" alt="banner">
