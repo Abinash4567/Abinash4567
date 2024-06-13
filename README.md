@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abinash4567&theme=dark" alt="Abinash4567" />
 
-## Whole day productivity
+## 🤠 Whole day productivity
 <img src="https://github.com/Abinash4567/Abinash4567/assets/98229006/72c43d5b-da71-4284-8684-695495adcd2b" alt="banner">
